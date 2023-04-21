@@ -6,5 +6,6 @@
     - [`Spectacle`](https://github.com/FormidableLabs/spectacle), a React-based presentation library and CLI
     - [`React Live`](https://github.com/FormidableLabs/react-live), a flexible playground for live editing React components
     - [`Nuka Carousel`](https://github.com/FormidableLabs/nuka-carousel), a small, fast, and accessibility-first React carousel library with an easily customizable UI 
+    - [`Prism React Renderer`](https://github.com/FormidableLabs/prism-react-renderer), a way to render syntax highlighted code using React components and PrismJS
 
 
