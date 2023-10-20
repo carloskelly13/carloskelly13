@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Carlos Kelly
 
-- 🔭 Staff Software Engineer and Head of Delivery at [NearForm](https://nearform.com) which acquired [Formidable](https://formidable.com) in late 2023.
+- 🔭 Staff Software Engineer and CTO at [Formidable](https://formidable.com), a [NearForm](https://nearform.com) company.
 - ⚡ Building apps using web technologies including native and web platform technologies.
 - 🌱 OSS maintainer and contributor for 
     - [`Spectacle`](https://github.com/FormidableLabs/spectacle), a React-based presentation library and CLI
