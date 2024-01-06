@@ -1,8 +1,9 @@
 ### Hi there 👋 I’m Carlos Kelly
 
-- 🔭 Staff Software Engineer and CTO at [Formidable](https://formidable.com), a [NearForm](https://nearform.com) company.
+- 🔭 Principal Software Engineer at [Multiple](https://multiple.dev), a developer-centric load test platform that can test anything across your stack.
+- 🔭 Former CTO at [Formidable](https://formidable.com), a [NearForm](https://nearform.com) company.
 - ⚡ Building apps using web technologies including native and web platform technologies.
-- 🌱 OSS maintainer and contributor for 
+- 🌱 I’ve been a OSS maintainer and contributor for 
     - [`Spectacle`](https://github.com/FormidableLabs/spectacle), a React-based presentation library and CLI
     - [`Victory Native XL`](https://github.com/FormidableLabs/victory-native-xl), a charting library for React Native with a focus on performance and customization
     - [`React Live`](https://github.com/FormidableLabs/react-live), a flexible playground for live editing React components
