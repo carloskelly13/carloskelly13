@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Carlos Kelly
 
-- 🔭 Principal Software Engineer at [Multiple](https://multiple.dev), a developer-centric load test platform that can test anything across your stack.
+- 🔭 Principal Software Engineer at [Jolt AI](https://usejolt.ai), a codegen and code chat tool for production codebases that helps teams ship code.
 - 🔭 Former CTO at [Formidable](https://formidable.com), a [NearForm](https://nearform.com) company.
 - ⚡ Building apps using web technologies including native and web platform technologies.
 - 🌱 I’ve been a OSS maintainer and contributor for 
